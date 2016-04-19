@@ -21,14 +21,8 @@
                 </ul>
                 </div>
                 @yield('index')
-                @yield('informatica')
-                @yield('medicina')
-                @yield('agronomia')
-                @yield('quimica')
-                @yield('contabilidad')
-                @yield('odontologia')
-                @yield('psicologia')
-                @yield('trabajo_social')
+                @yield('materias')
+               
             </div>
         </div>
     </body>

@@ -1,6 +1,6 @@
 @extends('inicio')
 
-@section ('index')
+@section ('materias')
 
 <div class="col-xs-10">
 	<h2>{{$carrera->nombre_carrera}}</h2>
